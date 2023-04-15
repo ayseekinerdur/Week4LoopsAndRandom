@@ -1,0 +1,15 @@
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\bin\Debug\net6.0\Week4LoopsAndRandom.exe
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\bin\Debug\net6.0\Week4LoopsAndRandom.deps.json
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\bin\Debug\net6.0\Week4LoopsAndRandom.runtimeconfig.json
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\bin\Debug\net6.0\Week4LoopsAndRandom.dll
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\bin\Debug\net6.0\Week4LoopsAndRandom.pdb
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\obj\Debug\net6.0\Week4LoopsAndRandom.csproj.AssemblyReference.cache
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\obj\Debug\net6.0\Week4LoopsAndRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\obj\Debug\net6.0\Week4LoopsAndRandom.AssemblyInfoInputs.cache
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\obj\Debug\net6.0\Week4LoopsAndRandom.AssemblyInfo.cs
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\obj\Debug\net6.0\Week4LoopsAndRandom.csproj.CoreCompileInputs.cache
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\obj\Debug\net6.0\Week4LoopsAndRandom.dll
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\obj\Debug\net6.0\refint\Week4LoopsAndRandom.dll
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\obj\Debug\net6.0\Week4LoopsAndRandom.pdb
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\obj\Debug\net6.0\Week4LoopsAndRandom.genruntimeconfig.cache
+C:\Users\Ekin\source\repos\Week4LoopsAndRandom\Week4LoopsAndRandom\obj\Debug\net6.0\ref\Week4LoopsAndRandom.dll
